@@ -1116,12 +1116,12 @@ hr.light {
 
 /******** 4.2-Desktop Nav **********/
 .small-height {
-	height: 60px !important;
+	height: 80px !important;
 }
 
 .small-height .nav-wrapper ul li a {
-	height: 60px !important;
-	line-height: 60px !important;
+	height: 80px !important;
+	line-height: 80px !important;
 }
 
 .nav-wrapper {
@@ -7249,15 +7249,11 @@ li.active .service-heading {
 }
 
 #footer-section .top-button {
-	bottom: 0;
 	cursor: pointer;
 	height: auto;
-	left: 0;
-	margin: auto;
-	position: absolute;
-	right: 0;
-	width: 90px;
-	text-align: center
+	font-size: 24px;
+	border:1px solid #000;
+	background-color: white;
 }
 
 #footer-section .top-button h5 {
