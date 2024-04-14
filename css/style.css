@@ -720,7 +720,7 @@ hr.light {
 	position: fixed;
 	top: 0;
 	left: 0;
-	background: #fefefe;
+	background: #1c1c1c;
 	z-index: 100000;
 }
 
@@ -748,7 +748,7 @@ hr.light {
 	top: 50%;
 	left: 50%;
 	font-weight: 800;
-	color: #fff;
+	color: #000;
 	line-height: 104px;
 	text-transform: uppercase;
 	text-align: center;
@@ -757,7 +757,7 @@ hr.light {
 	-webkit-box-shadow: 0 2px 9px 0 rgba(21, 21, 21, 0.69);
 	margin: -50px 0 0 -50px;
 	z-index: 100001;
-	background-color: #212121;
+	background-color: #fff;
 }
 
 .loader-area {
@@ -1502,7 +1502,9 @@ hr.light {
 }
 
 .small-device-menu .mobile-nav {
-	display: table;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 .mobile-nav .fa {
