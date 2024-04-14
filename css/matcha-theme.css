@@ -46852,7 +46852,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 
 .theme-default-light .base-surface {
     background: white;
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-light .base-surface-alpha {
@@ -46860,7 +46860,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-light .base-fg {
-    background: #223744;
+    background: #1c1c1c;
     color: #f5f7fa;
 }
 
@@ -46870,7 +46870,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 
 .theme-default-light .base-bg {
     background: #f5f7fa;
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-light .base-bg-alpha {
@@ -46925,7 +46925,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 .theme-default-light .color-fg,
 .theme-default-light .color-base,
 .theme-default-light .color-text {
-    color: #223744 !important;
+    color: #1c1c1c !important;
 }
 
 .theme-default-light .color-fg-inverse,
@@ -47045,7 +47045,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 .theme-default-light .border-color-fg,
 .theme-default-light .border-color-base,
 .theme-default-light .border-color-text {
-    border-color: #223744 !important;
+    border-color: #1c1c1c !important;
 }
 
 .theme-default-light .border-color-fg-inverse,
@@ -47165,7 +47165,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 .theme-default-light .background-fg,
 .theme-default-light .background-base,
 .theme-default-light .background-text {
-    background: #223744 !important;
+    background: #1c1c1c !important;
 }
 
 .theme-default-light .background-fg-inverse,
@@ -47285,7 +47285,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 .theme-default-light .fill-fg,
 .theme-default-light .fill-base,
 .theme-default-light .fill-text {
-    fill: #223744 !important;
+    fill: #1c1c1c !important;
 }
 
 .theme-default-light .fill-fg-inverse,
@@ -47405,7 +47405,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 .theme-default-light .stroke-fg,
 .theme-default-light .stroke-base,
 .theme-default-light .stroke-text {
-    stroke: #223744 !important;
+    stroke: #1c1c1c !important;
 }
 
 .theme-default-light .stroke-fg-inverse,
@@ -47979,7 +47979,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-light .yellow {
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-light .border-color-yellow {
@@ -48023,7 +48023,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-light .amber {
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-light .border-color-amber {
@@ -53217,7 +53217,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-light .blue-grey-A700 {
-    background-color: #223744 !important;
+    background-color: #1c1c1c !important;
     color: white !important;
 }
 
@@ -53227,11 +53227,11 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-light .blue-grey-A700-bg {
-    background-color: #223744 !important;
+    background-color: #1c1c1c !important;
 }
 
 .theme-default-light .blue-grey-A700-fg {
-    color: #223744 !important;
+    color: #1c1c1c !important;
 }
 
 .theme-default-light .primary-50 {
@@ -56621,7 +56621,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-light .angular-editor .angular-editor-toolbar .angular-editor-toolbar-set .angular-editor-button i {
-    color: #223744;
+    color: #1c1c1c;
     height: 24px !important;
     width: 24px !important;
     font-size: 16px !important;
@@ -56932,7 +56932,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-light .fc-button-primary:hover .fc-icon {
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-light .fc-unthemed th,
@@ -58973,7 +58973,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-light .cal-month-view .cal-open-day-events {
-    color: #223744;
+    color: #1c1c1c;
     background-color: #d4dde3;
     box-shadow: none;
 }
@@ -59549,7 +59549,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
     font-weight: normal;
     font-size: 16px !important;
     line-height: 20px;
-    color: #223744;
+    color: #1c1c1c;
 }
 
 @media (min-width: 1024px) {
@@ -59693,7 +59693,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-light .text-basic {
-    color: #223744 !important;
+    color: #1c1c1c !important;
 }
 
 .theme-default-light .changelog .entry .groups .breaking-changes .title {
@@ -59725,7 +59725,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 .theme-default-light .message-box {
     background-color: rgba(30, 91, 218, 0.2);
     border-left-color: #1e5bda;
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-light .matcha-message-box.error,
@@ -59752,7 +59752,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 .theme-default-light .message-box--warning,
 .theme-default-light .message-box--success,
 .theme-default-light .message-box--info {
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-light .matcha-message-box--error,
@@ -59796,7 +59796,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-light {
-    color: #223744;
+    color: #1c1c1c;
     background: #f5f7fa;
 }
 
@@ -59915,7 +59915,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
     display: flex;
     position: absolute;
     background: transparent;
-    box-shadow: inset 2px -2px 0px 2px #223744;
+    box-shadow: inset 2px -2px 0px 2px #1c1c1c;
 }
 
 .theme-default-light .tree-node {
@@ -60327,7 +60327,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 .theme-default-light .table-container .mat-table .mat-header-cell,
 .theme-default-light .table-container .mat-sort .mat-header-cell,
 .theme-default-light .table-container .mat-expansion-panel .mat-header-cell {
-    color: #223744;
+    color: #1c1c1c;
     font-family: "CircularStd-Bold";
     font-size: 16px;
     padding-left: 8px;
@@ -63015,7 +63015,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 
 .theme-default-dark .base-fg {
     background: #f5f7fa;
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-dark .base-fg-alpha {
@@ -63085,7 +63085,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 .theme-default-dark .color-fg-inverse,
 .theme-default-dark .color-base-inverse,
 .theme-default-dark .color-text-inverse {
-    color: #223744 !important;
+    color: #1c1c1c !important;
 }
 
 .theme-default-dark .color-surface {
@@ -63205,7 +63205,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 .theme-default-dark .border-color-fg-inverse,
 .theme-default-dark .border-color-base-inverse,
 .theme-default-dark .border-color-text-inverse {
-    border-color: #223744 !important;
+    border-color: #1c1c1c !important;
 }
 
 .theme-default-dark .border-color-surface {
@@ -63325,7 +63325,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 .theme-default-dark .background-fg-inverse,
 .theme-default-dark .background-base-inverse,
 .theme-default-dark .background-text-inverse {
-    background: #223744 !important;
+    background: #1c1c1c !important;
 }
 
 .theme-default-dark .background-surface {
@@ -63445,7 +63445,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 .theme-default-dark .fill-fg-inverse,
 .theme-default-dark .fill-base-inverse,
 .theme-default-dark .fill-text-inverse {
-    fill: #223744 !important;
+    fill: #1c1c1c !important;
 }
 
 .theme-default-dark .fill-surface {
@@ -63565,7 +63565,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 .theme-default-dark .stroke-fg-inverse,
 .theme-default-dark .stroke-base-inverse,
 .theme-default-dark .stroke-text-inverse {
-    stroke: #223744 !important;
+    stroke: #1c1c1c !important;
 }
 
 .theme-default-dark .stroke-surface {
@@ -63605,7 +63605,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-dark .red {
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-dark .border-color-red {
@@ -63649,7 +63649,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-dark .pink {
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-dark .border-color-pink {
@@ -63693,7 +63693,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-dark .purple {
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-dark .border-color-purple {
@@ -63737,7 +63737,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-dark .deep-purple {
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-dark .border-color-deep-purple {
@@ -63781,7 +63781,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-dark .indigo {
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-dark .border-color-indigo {
@@ -63825,7 +63825,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-dark .blue {
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-dark .border-color-blue {
@@ -63869,7 +63869,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-dark .light-blue {
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-dark .border-color-light-blue {
@@ -63913,7 +63913,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-dark .cyan {
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-dark .border-color-cyan {
@@ -63957,7 +63957,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-dark .teal {
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-dark .border-color-teal {
@@ -64001,7 +64001,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-dark .green {
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-dark .border-color-green {
@@ -64045,7 +64045,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-dark .light-green {
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-dark .border-color-light-green {
@@ -64089,7 +64089,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-dark .lime {
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-dark .border-color-lime {
@@ -64133,7 +64133,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-dark .yellow {
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-dark .border-color-yellow {
@@ -64177,7 +64177,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-dark .amber {
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-dark .border-color-amber {
@@ -64221,7 +64221,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-dark .orange {
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-dark .border-color-orange {
@@ -64265,7 +64265,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-dark .deep-orange {
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-dark .border-color-deep-orange {
@@ -64305,7 +64305,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-dark .brown {
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-dark .border-color-brown-alpha {
@@ -64329,7 +64329,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-dark .grey {
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-dark .border-color-grey-alpha {
@@ -64353,7 +64353,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-dark .blue-grey {
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-dark .border-color-blue-grey-alpha {
@@ -64377,7 +64377,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-dark .primary {
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-dark .border-color-primary-alpha {
@@ -64401,7 +64401,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-dark .accent {
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-dark .border-color-accent-alpha {
@@ -64425,7 +64425,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-dark .warn {
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-dark .border-color-warn-alpha {
@@ -69371,7 +69371,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-dark .blue-grey-A700 {
-    background-color: #223744 !important;
+    background-color: #1c1c1c !important;
     color: white !important;
 }
 
@@ -69381,11 +69381,11 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-dark .blue-grey-A700-bg {
-    background-color: #223744 !important;
+    background-color: #1c1c1c !important;
 }
 
 .theme-default-dark .blue-grey-A700-fg {
-    color: #223744 !important;
+    color: #1c1c1c !important;
 }
 
 .theme-default-dark .primary-50 {
@@ -73061,12 +73061,12 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 
 .theme-default-dark .fc-day-top.active .fc-day-number {
     background-color: #c6ff00;
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-dark .fc-day-number:hover {
     background-color: #bccef4;
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-dark .fc-button-primary {
@@ -73131,7 +73131,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 
 .theme-default-dark .fc-day-top.fc-today .fc-day-number {
     background-color: #d4dde3;
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-dark .fc-button-primary:not(:disabled):active,
@@ -75110,7 +75110,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .theme-default-dark .cal-month-view .cal-day-badge {
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-dark .cal-month-view .cal-event {
@@ -75787,7 +75787,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 .theme-default-dark ngx-material-timepicker-container .dial__control,
 .theme-default-dark ngx-material-timepicker-container .timepicker-dial__item_active,
 .theme-default-dark ngx-material-timepicker-container .timepicker-dial__time {
-    color: #223744 !important;
+    color: #1c1c1c !important;
 }
 
 .theme-default-dark ngx-material-timepicker-container .timepicker-button {
@@ -76069,7 +76069,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
     display: flex;
     position: absolute;
     background: transparent;
-    box-shadow: inset 2px -2px 0px 2px #223744;
+    box-shadow: inset 2px -2px 0px 2px #1c1c1c;
 }
 
 .theme-default-dark .tree-node {
@@ -76538,7 +76538,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 .theme-default-dark .table-container .badge {
     border-radius: 8px;
     padding: 8px;
-    color: #223744;
+    color: #1c1c1c;
 }
 
 .theme-default-dark .table-container .badge.live-badge {
