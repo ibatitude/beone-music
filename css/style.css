@@ -8032,4 +8032,17 @@ li.active .service-heading {
   
 /* Animation Does Not End At 100% Because It Makes The Images Transition In/Out Better For Some Reason*/
 }
-    
+
+
+.bg-newsletter{
+	background:url(../images/BeOne-Music02.png)no-repeat center bottom / cover !important;
+}
+
+@media only screen and (min-width: 600px) {}
+@media only screen and (min-width: 1024px) {
+	.bg-newsletter{
+		background:url(../images/BeOne-Music04.png)no-repeat 90% 20% / 400px, url(../images/BeOne-Music02.png)no-repeat center bottom / cover !important;
+	}
+}
+@media only screen and (min-width: 1440px) {}
+@media only screen and (min-width: 1920px) {}
